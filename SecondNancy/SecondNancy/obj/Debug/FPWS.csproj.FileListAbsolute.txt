@@ -1,0 +1,46 @@
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Views\index.cshtml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\SecondNancy.exe.config
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\SecondNancy.exe
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\SecondNancy.pdb
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.Hosting.Self.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.ViewEngines.Razor.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.Unofficial.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.xml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.Hosting.Self.xml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.ViewEngines.Razor.xml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.Unofficial.pdb
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\obj\Debug\FPWS.csprojResolveAssemblyReference.cache
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\obj\Debug\SecondNancy.exe
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\obj\Debug\SecondNancy.pdb
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Content\logo.png
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Views\cert.cshtml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Views\upload.cshtml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Content\logo.jpg
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Content\logo.jpg
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Content\logo.png
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Views\cert.cshtml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Views\index.cshtml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Views\secert.cshtml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Views\upload.cshtml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\SecondNancy.exe.config
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\SecondNancy.exe
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\SecondNancy.pdb
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Nancy.dll
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Nancy.ViewEngines.Razor.dll
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\SourceAFIS.dll
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.dll
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.Unofficial.dll
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\zxing.dll
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Nancy.xml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\Nancy.ViewEngines.Razor.xml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\SourceAFIS.xml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.xml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.Unofficial.pdb
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\zxing.pdb
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\bin\Debug\zxing.xml
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\obj\Debug\FPWS.csprojResolveAssemblyReference.cache
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\obj\Debug\SecondNancy.exe
+C:\Users\yi\Desktop\SecondNancy\SecondNancy\obj\Debug\SecondNancy.pdb

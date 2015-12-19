@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SecondNancy/FPWS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SecondNancy/Module/IndexModule.cs">
+    <Files>
+      <File FileName="SecondNancy/Module/IndexModule.cs" Line="4" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

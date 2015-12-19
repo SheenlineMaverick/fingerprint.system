@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Fingerprint Web Service Page</title>
+</head>
+<body>
+    <h1>Fingerprint Certification System</h1>
+    <img src="~/Content/logo.jpg" alt="FP logo" /><br />
+    <p>
+        Fingerprint Certification
+    </p>
+    <p>
+        <form method="post" action="/verification" enctype="multipart/form-data">
+            <ul>
+                <li>UserId:<input type="text" name="userId" /></li>
+                <br />
+                <li>FP Image:<input type="file" name="finger" /></li>
+                <br />
+                <li><input type="submit" value="submit"/></li>
+            </ul>
+        </form>
+    </p>
+    
+</body>
+</html>

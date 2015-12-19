@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Fingerprint Web Service Page</title>
+</head>
+<body>
+    <h1>Fingerprint Certification System</h1>
+    <img src="~/Content/logo.jpg" alt="FP logo" /><br />
+    <p>
+        <form method="POST" enctype="multipart/form-data" action="/upload">
+            <ul>Student ID:<input type="text" name="id"></ul>
+            <ul>Student Name:<input type="text" name="name"></ul>
+            <ul>
+                Choose File 1:
+                <input type="file" name="file1">
+                FingerName:
+                <input type="text" name="fpname1">
+                SampleNumber:
+                <input type="text" name="samplenumber1">
+            </ul>
+            <ul>
+                Choose File 2:
+                <input type="file" name="file2">
+                FingerName:
+                <input type="text" name="fpname2">
+                SampleNumber:
+                <input type="text" name="samplenumber2">
+            </ul>
+            <ul>
+                Choose File 3:
+                <input type="file" name="file3">
+                FingerName:
+                <input type="text" name="fpname3">
+                SampleNumber:
+                <input type="text" name="samplenumber3">
+            </ul>
+            <ul>
+                Choose File 4:
+                <input type="file" name="file4">
+                FingerName:
+                <input type="text" name="fpname4">
+                SampleNumber:
+                <input type="text" name="samplenumber4">
+            </ul>
+            <ul>
+                Choose File 5:
+                <input type="file" name="file5">
+                FingerName:
+                <input type="text" name="fpname5">
+                SampleNumber:
+                <input type="text" name="samplenumber5">
+            </ul>
+            <input type="submit" value="submit">
+
+        </form>
+    </p>
+
+</body>
+</html>

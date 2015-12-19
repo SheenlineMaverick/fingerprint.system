@@ -1,0 +1,16 @@
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\SecondNancy.exe.config
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Content\nancy-logo.png
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Views\index.cshtml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\SecondNancy.exe
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\SecondNancy.pdb
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.Hosting.Self.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.ViewEngines.Razor.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.Unofficial.dll
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.xml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.Hosting.Self.xml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\Nancy.ViewEngines.Razor.xml
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\bin\Debug\System.Web.Razor.Unofficial.pdb
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\obj\Debug\SecondNancy.csprojResolveAssemblyReference.cache
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\obj\Debug\SecondNancy.exe
+c:\users\yi\documents\visual studio 2013\Projects\SecondNancy\SecondNancy\obj\Debug\SecondNancy.pdb
